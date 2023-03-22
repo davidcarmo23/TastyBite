@@ -1,0 +1,9 @@
+:root {
+    --primaryColor: #ff8c42 ;
+    --secondaryColor: #4d4d4d ;
+    --accentColor: #e6e6e6;
+  }
+
+  html {
+    background-image: none;
+  }
